@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    width: 10vw;
+    height: 5vh;
+    margin-left: 2vw;
+    margin-top: 2vh;
+    position: absolute;
+    cursor: pointer;
+    /* z-index: 1; */
+}
+#sub{
+    width: 100vw;
+    height: 12vh;
+    background-color: black;
+    position: absolute;
+}
+#main{
+    margin-top: 1vh;
+    width: 95vw;
+    height: 99vh;
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    border-radius: 1vw 0vw 0vw 0vw;
+}
+#x,h1{
+    margin-top: 2vh;
+    margin-left: 2vw;
+    cursor: pointer;
+    
+}
+#h{
+    margin-top: 10vh;
+}
